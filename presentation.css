@@ -21,6 +21,7 @@
 }
 
 .deck-container img.thumb {
+  height: 200px;
   width: 200px;
 }
 
@@ -33,7 +34,11 @@
 .deck-container img.right {
   position: relative;
   left: 200px;
-  bottom: 150px;
+  top: -175px;
+}
+
+.deck-container img.up {
+  top: -50px;
 }
 
 .deck-container code {
