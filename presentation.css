@@ -32,12 +32,16 @@
 
 .deck-container img.right {
   position: relative;
+  top: -160px;
   left: 200px;
-  top: -175px;
 }
 
 .deck-container img.up {
-  top: -50px;
+  top: -100px;
+}
+
+.deck-container img.up1 {
+  top: -250px;
 }
 
 .deck-container code {
